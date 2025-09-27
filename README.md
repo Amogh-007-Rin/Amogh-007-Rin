@@ -202,21 +202,21 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <div align="center">
 
 <p align="center">
-<b>📅 Contribution Calendar</b><br>
+<b>📅 Contribution Calendar</b><br><br>
 <img src="https://ghchart.rshah.org/00ff41/Amogh-007-Rin" alt="Contribution Calendar" />
 </p>
 
 <br>
 
 <p align="center">
-<b>🔍 Profile Summary</b><br>
+<b>🔍 Profile Summary</b><br><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amogh-007-Rin&theme=radical" alt="Profile Summary" />
 </p>
 
 <br>
 
 <p align="center">
-<b>💻 Coding Time Distribution</b><br>
+<b>💻 Coding Time Distribution</b><br><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amogh-007-Rin&theme=radical" alt="Most Used Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amogh-007-Rin&theme=radical" alt="Repos Per Language" />
 </p>
@@ -250,7 +250,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <br>
 
 <p align="center">
-<b>📱 Let's Connect!</b><br>
+<b>📱 Let's Connect!</b><br><br>
 <img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge" alt="Open to Collaborations"/>
 <img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=for-the-badge" alt="Available for Freelance"/>
 <img src="https://img.shields.io/badge/Looking%20for-Opportunities-orange?style=for-the-badge" alt="Looking for Opportunities"/>
@@ -284,7 +284,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <br>
 
 <p align="center">
-<b>🐍 Contribution Snake</b><br>
+<b>🐍 Contribution Snake</b><br><br>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
@@ -301,9 +301,9 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
-╚════════════════════════════════════════════════════════════╝
+                            ╔════════════════════════════════════════════════════════════╗
+                            ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
+                            ╚════════════════════════════════════════════════════════════╝
 ```
 
 **⚠️ DEVELOPER NOTICE:** *Wanna know more about what my coding projects look like? Follow me on socials --> meet you all there!*
