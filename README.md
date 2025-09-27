@@ -21,8 +21,8 @@
 Current Mission: Revolutionizing Carbon Credits & AI Systems
 Status: [ ACTIVE ]
 Location: Birmingham, UK 🇬🇧
-Neural Network: Birmingham City University
-Specialization: AI + Blockchain + Environmental Tech
+University: Birmingham City University
+Specialization: AI-ML + Blockchain + Full Stack + Devops
 Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile)
 ```
 
@@ -45,7 +45,7 @@ $ Initialize Carbon-Credit-Revolution...
 > Real-time O2/CO2 index monitoring
 > Ethereum network integration
 > Corporate sustainability enforcement
-Status: [████████████████████████] 95% | SCALING TO GLOBAL DEPLOYMENT
+Status: [Gn-going] 15% | SCALING TO GLOBAL DEPLOYMENT
 ```
 
 ### 🔹 **[GREEN BASE] AI AGRO-TECH ASSISTANT** `[INTELLIGENT]`
@@ -55,7 +55,7 @@ $ Booting Agricultural-AI-Matrix...
 > Weather pattern prediction
 > Yield optimization algorithms
 > Market-driven crop selection
-Status: [██████████████████░░░░░░] 80% | TRAINING ON AGRICULTURAL DATASETS
+Status: [On-Going] 80% | TRAINING ON AGRICULTURAL DATASETS
 ```
 
 ### 🔹 **[CODE CONTINENT] AI CAREER PLATFORM** `[OPERATIONAL]`
@@ -65,12 +65,12 @@ $ Loading Interview-Preparation-System...
 > ATS-friendly CV analysis
 > Multi-stage interview simulation
 > 30% learning efficacy improvement
-Status: [████████████████████████] 100% | DEPLOYED & ACTIVE
+Status: [On-Going] 40% | DEPLOYED & ACTIVE
 ```
 
 ---
 
-## ⚡ NEURAL PATHWAYS ⚡
+## ⚡ WHEN I CODE FOR FUN I USE ALL OF THESE ⚡
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Status: [███████████████████████�
 
 ---
 
-## 🏆 ACHIEVEMENT UNLOCKED 🏆
+## 🏆 ACHIEVEMENT SO FAR 🏆
 
 ```diff
 + IIT-JEE ADVANCE: All India Rank 8240 (Elite Engineering Tier)
@@ -110,7 +110,7 @@ Status: [███████████████████████�
 
 ---
 
-## 🔗 NETWORK CONNECTIONS
+## 🔗 NETWORK AND CONNECTIONS
 
 <div align="center">
 
@@ -127,10 +127,10 @@ Status: [███████████████████████�
 ## 🌟 CURRENT MISSION OBJECTIVES 🌟
 
 ```
-[██████████] Loading Environmental Revolution...
-[██████████] Deploying AI-Powered Solutions...
-[██████████] Scaling Blockchain Infrastructure...
-[██████████] Optimizing Carbon Credit Markets...
+[] Loading Environmental Revolution...
+[] Deploying AI-Powered Solutions...
+[] Scaling Blockchain Infrastructure...
+[] Optimizing Carbon Credit Markets...
 
 🎯 TARGET: Transform global sustainability through technology
 🚀 ETA: Continuous deployment and innovation
@@ -145,7 +145,7 @@ Status: [███████████████████████�
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  🔮 END TRANSMISSION - NEURAL INTERFACE STANDBY MODE 🔮   ║
+║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT🔮   ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
@@ -153,4 +153,4 @@ Status: [███████████████████████�
 
 ---
 
-**⚠️ SYSTEM NOTICE:** *This profile is powered by sustainable AI and blockchain technology. Carbon footprint: -99% (thanks to EBT system)*
+**⚠️ DEVELOPER NOTICE:** *Wanna Know more about what my coding projects look like follow me on socials --> meet you all there*
