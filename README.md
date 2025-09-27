@@ -1,3 +1,5 @@
+
+You said:
 <div align="center"> # 🌐 HEY DEVELOPER, WELCOME TO MY CODING ARENA 🌐 </div>
 
 
@@ -5,23 +7,25 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=300&size=48&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=800&height=80&lines=A+M+O+G+H+%E2%80%A2+D+A+T+H+%E2%80%A2+K+%E2%80%A2+A;%F0%9F%8E%AF+AI+ARCHITECT+%F0%9F%8E%AF;%E2%9A%A1+BLOCKCHAIN+ENGINEER+%E2%9A%A1;%F0%9F%8C%8D+CARBON+CREDIT+PIONEER+%F0%9F%8C%8D" alt="Name Animation" />
-```
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-```
+╔══════════════════════════════════════════════════════════════╗
+║          🔮 NEURAL INTERFACE MATRIX ONLINE 🔮               ║
+║      ⚡ NEXT-GEN DEVELOPER • ENVIRONMENTAL TECH LEADER ⚡   ║
+╚══════════════════════════════════════════════════════════════╝
+
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;BLOCKCHAIN+PROTOCOLS+ACTIVE;AI+SYSTEMS+OPERATIONAL;CARBON+CREDIT+REVOLUTION+LOADING...;ENVIRONMENTAL+TECH+DEPLOYED" alt="System Status" />
 </div>
 ---
 
 ## 🔥 SYSTEM STATUS: ONLINE 🔥
 
-```yaml
+yaml
 Current Mission: Revolutionizing Carbon Credits & AI Systems
 Status: [ ACTIVE ]
 Location: Birmingham, UK 🇬🇧
 University: Birmingham City University
 Specialization: AI-ML + Blockchain + Full Stack + Devops
 Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile)
-```
+
 
 <div align="center">
 
@@ -35,35 +39,35 @@ Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile)
 
 ## 🌍 PROJECT MATRIX 🌍
 
-### 🔹 **[EBT] ECOLOGICAL BALANCE TOKEN SYSTEM** `[REVOLUTIONARY]`
-```bash
+### 🔹 **[EBT] ECOLOGICAL BALANCE TOKEN SYSTEM** [REVOLUTIONARY]
+bash
 $ Initialize Carbon-Credit-Revolution...
 > Blockchain-based Carbon Credit trading platform
 > Real-time O2/CO2 index monitoring
 > Ethereum network integration
 > Corporate sustainability enforcement
 Status: [Gn-going] 15% | SCALING TO GLOBAL DEPLOYMENT
-```
 
-### 🔹 **[GREEN BASE] AI AGRO-TECH ASSISTANT** `[INTELLIGENT]`
-```bash
+
+### 🔹 **[GREEN BASE] AI AGRO-TECH ASSISTANT** [INTELLIGENT]
+bash
 $ Booting Agricultural-AI-Matrix...
 > Soil quality analysis engine
 > Weather pattern prediction
 > Yield optimization algorithms
 > Market-driven crop selection
 Status: [On-Going] 80% | TRAINING ON AGRICULTURAL DATASETS
-```
 
-### 🔹 **[CODE CONTINENT] AI CAREER PLATFORM** `[OPERATIONAL]`
-```bash
+
+### 🔹 **[CODE CONTINENT] AI CAREER PLATFORM** [OPERATIONAL]
+bash
 $ Loading Interview-Preparation-System...
 > AI-powered virtual mentors
 > ATS-friendly CV analysis
 > Multi-stage interview simulation
 > 30% learning efficacy improvement
 Status: [On-Going] 40% | DEPLOYED & ACTIVE
-```
+
 
 ---
 
@@ -96,14 +100,14 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 ## 🏆 ACHIEVEMENT SO FAR 🏆
 
-```diff
+diff
 + IIT-JEE ADVANCE: All India Rank 8240 (Elite Engineering Tier)
 + IIT-JEE MAINS: 98.95%ile (Top 1% Selection Matrix)
 + IISER APTITUDE: 99.07%ile (Research Excellence Tier)
 + MENTOR STATUS: Guided 100+ students to IIT success
 + CLOUD ARCHITECT: AWS/Azure/GCP Multi-Cloud Specialist
 + AI SPECIALIST: TensorFlow/PyTorch/Keras Certified
-```
+
 
 ---
 
@@ -123,7 +127,6 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 ## 🌟 CURRENT MISSION OBJECTIVES 🌟
 
-```
 [] Loading Environmental Revolution...
 [] Deploying AI-Powered Solutions...
 [] Scaling Blockchain Infrastructure...
@@ -132,7 +135,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 🎯 TARGET: Transform global sustainability through technology
 🚀 ETA: Continuous deployment and innovation
 ⚡ STATUS: All systems operational and expanding
-```
+
 
 ### 💫 "Architecting the future, one algorithm at a time" 💫
 
@@ -140,11 +143,10 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 ---
 
-```
 ╔════════════════════════════════════════════════════════════╗
 ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT🔮   ║
 ╚════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
