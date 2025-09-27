@@ -11,7 +11,11 @@
                                   ║      ⚡ NEXT-GEN DEVELOPER • ENVIRONMENTAL TECH LEADER ⚡   ║
                                   ╚══════════════════════════════════════════════════════════════╝
 ```
-<br></br>
+<br>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ed/f8/e9/edf8e9869b6bdd409e53ec96b785fe6d.gif" width="500" alt="Cool Animation"/>
+</div>
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;BLOCKCHAIN+PROTOCOLS+ACTIVE;AI+SYSTEMS+OPERATIONAL;CARBON+CREDIT+REVOLUTION+LOADING...;ENVIRONMENTAL+TECH+DEPLOYED" alt="System Status" />
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Amogh-007-Rin&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" /> </div>
