@@ -140,7 +140,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <br>
 
 <p align="center">
-<b>🏆 Trophy Collection</b><br>
+<b>🏆 Trophy Collection</b><br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Amogh-007-Rin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
 </p>
 
