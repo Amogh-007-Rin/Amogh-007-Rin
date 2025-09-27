@@ -154,9 +154,9 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 <p align="center">
 <b>🎧 What I'm Listening To</b><br>
-<video controls loop>
-  <source src="Spotify_playlist.mp4" type="video/mp4">
-</video>
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/220/220159.gif" width="300" alt="Cool Animation"/>
+</div>
 </p>
 
 <br>
