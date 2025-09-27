@@ -2,19 +2,16 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&random=false&width=800&height=100&lines=AMOGH+DATH+K+A;🚀+AI+ARCHITECT+🚀;⚡+BLOCKCHAIN+ENGINEER+⚡;🌍+CARBON+CREDIT+PIONEER+🌍" alt="Name Animation" />
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ▄▄▄  ███▄ ▄███▓ ▒█████    ▄████  ██░ ██     ▓█████▄  ▄▄▄  ║
-║ ▒████▄▓██▒▀█▀██▒▒██▒  ██▒ ██▒ ▀█▒▓██░ ██▒    ▒██▀ ██▌▒████▄║
-║ ▒██  ▀█▓██    ▓██▒██░  ██▒▒██░▄▄▄░▒██▀▀██░    ░██   █▌▒██  ▀║
-║ ░██▄▄▄▄██▒██    ▒██░   ██▒░▓█  ██▓░▓█ ░██     ░▓█▄   ▌░██▄▄▄║
-║  ▓█   ▓██▒██▒   ░██░██████▒░▒▓███▀▒░▓█▒░██▓    ░▒████▓  ▓█  ║
-║  ▒▒   ▓▒█░ ▒░   ░  ░ ▒░▓  ░ ░▒   ▒  ▒ ░░▒░▒     ▒▒▓  ▒  ▒▒  ║
+║          🔮 NEURAL INTERFACE ACTIVATED 🔮                   ║
+║    ⚡ AI ARCHITECT • BLOCKCHAIN ENGINEER • ECO-PIONEER ⚡   ║
 ╚══════════════════════════════════════════════════════════════╝
-    ⚡ AI ARCHITECT • BLOCKCHAIN ENGINEER • CARBON CREDIT PIONEER ⚡
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;BLOCKCHAIN+PROTOCOLS+ACTIVE;AI+SYSTEMS+OPERATIONAL;CARBON+CREDIT+REVOLUTION+LOADING..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;BLOCKCHAIN+PROTOCOLS+ACTIVE;AI+SYSTEMS+OPERATIONAL;CARBON+CREDIT+REVOLUTION+LOADING...;ENVIRONMENTAL+TECH+DEPLOYED" alt="System Status" />
 
 </div>
 
