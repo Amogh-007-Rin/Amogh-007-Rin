@@ -155,7 +155,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <p align="center">
 <b>🎧 What I'm Listening To</b><br>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ed/f8/e9/edf8e9869b6bdd409e53ec96b785fe6d.gif" width="300" alt="Cool Animation"/>
+  <img src="https://i.pinimg.com/originals/ed/f8/e9/edf8e9869b6bdd409e53ec96b785fe6d.gif" width="800" alt="Cool Animation"/>
 </div>
 </p>
 
