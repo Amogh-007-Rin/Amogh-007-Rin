@@ -155,7 +155,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <p align="center">
 <b>🎧 What I'm Listening To</b><br>
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220159.gif" width="300" alt="Cool Animation"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Falphacoders.com%2Fanime-gifs&psig=AOvVaw2Cy9nz9ISLqyIwOYBlEUdQ&ust=1759103279628000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDu68KQ-o8DFQAAAAAdAAAAABAX" width="300" alt="Cool Animation"/>
 </div>
 </p>
 
