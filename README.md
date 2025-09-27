@@ -113,27 +113,35 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 ---
 
-## 📊 PERFORMANCE METRICS
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amogh-007-Rin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amogh-007-Rin&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+## 📊 PERFORMANCE METRICS
 
-<br><br>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amogh-007-Rin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh-007-Rin&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+</p>
 
-**🔥 Streak Stats**
+<br>
+
+<p align="center">
+<b>🔥 Streak Stats</b><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Amogh-007-Rin&theme=radical&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakNum=ffffff&sideNums=00ffff&currStreakLabel=00ff41&sideLabels=00ffff&dates=ffffff" alt="GitHub Streak" />
+</p>
 
-<br><br>
+<br>
 
-**📈 Activity Graph**
+<p align="center">
+<b>📈 Activity Graph</b><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amogh-007-Rin&bg_color=0d1117&color=ffffff&line=00ff41&point=00ffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
-<br><br>
+<br>
 
-**🏆 Trophy Collection**
+<p align="center">
+<b>🏆 Trophy Collection</b><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Amogh-007-Rin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
+</p>
 
 </div>
 
@@ -143,12 +151,18 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k2egrlp7obgizqbr7cf5jdtmuq&count=3&unique=true&width=600" alt="Spotify Recently Played" />
+<p align="center">
+<b>🎧 What I'm Listening To</b><br>
+<img src="https://spotify-recently-played-readme.vercel.app/api?count=1" alt="Spotify Recently Played" />
+</p>
 
-**🎧 My Coding Playlist**
+<br>
+
+<p align="center">
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+<img src="https://img.shields.io/badge/🎵%20My%20Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
 </a>
+</p>
 
 </div>
 
@@ -167,8 +181,10 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 + AI SPECIALIST: TensorFlow/PyTorch/Keras Certified
 ```
 
-**🎖️ Certifications & Badges**
-<p>
+<br>
+
+<p align="center">
+<b>🎖️ Certifications & Badges</b><br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
@@ -184,14 +200,25 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 <div align="center">
 
-**⏰ WakaTime Stats**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amogh007&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" alt="WakaTime Stats" />
-
-**📅 Contribution Calendar**
+<p align="center">
+<b>📅 Contribution Calendar</b><br>
 <img src="https://ghchart.rshah.org/00ff41/Amogh-007-Rin" alt="Contribution Calendar" />
+</p>
 
-**🔍 Profile Summary**
+<br>
+
+<p align="center">
+<b>🔍 Profile Summary</b><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amogh-007-Rin&theme=radical" alt="Profile Summary" />
+</p>
+
+<br>
+
+<p align="center">
+<b>💻 Coding Time Distribution</b><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amogh-007-Rin&theme=radical" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amogh-007-Rin&theme=radical" alt="Repos Per Language" />
+</p>
 
 </div>
 
@@ -201,7 +228,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 <div align="center">
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/amogh-dath">
 <img src="https://img.shields.io/badge/Neural_Link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -219,11 +246,14 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 </a>
 </p>
 
-**📱 Let's Connect!**
 <br>
+
+<p align="center">
+<b>📱 Let's Connect!</b><br>
 <img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge" alt="Open to Collaborations"/>
 <img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=for-the-badge" alt="Available for Freelance"/>
 <img src="https://img.shields.io/badge/Looking%20for-Opportunities-orange?style=for-the-badge" alt="Looking for Opportunities"/>
+</p>
 
 </div>
 
@@ -244,13 +274,24 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 ⚡ STATUS: All systems operational and expanding
 ```
 
-### 💫 "Architecting the future, one algorithm at a time" 💫
+<br>
 
-**🐍 Contribution Snake**
+<p align="center">
+<b>💫 "Architecting the future, one algorithm at a time" 💫</b>
+</p>
+
+<br>
+
+<p align="center">
+<b>🐍 Contribution Snake</b><br>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
-**🌊 Wave Animation**
+<br>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+</p>
 
 </div>
 
