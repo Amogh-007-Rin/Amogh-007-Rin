@@ -13,7 +13,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;BLOCKCHAIN+PROTOCOLS+ACTIVE;AI+SYSTEMS+OPERATIONAL;CARBON+CREDIT+REVOLUTION+LOADING...;ENVIRONMENTAL+TECH+DEPLOYED" alt="System Status" />
 
-<img src="https://komarev.com/ghpvc/?username=Amogh-007-Rin&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Amogh-007-Rin&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" /> </div>
 
 </div>
 
