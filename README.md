@@ -185,7 +185,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <br>
 
 <p align="center">
-<b>🎖️ Certifications & Badges</b><br>
+<b>🎖️ Certifications & Badges</b><br><br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
