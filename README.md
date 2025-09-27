@@ -154,7 +154,9 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 
 <p align="center">
 <b>🎧 What I'm Listening To</b><br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?count=1" alt="Spotify Recently Played" />
+<video controls loop>
+  <source src=""C:\Users\AMOGH\Downloads\PinDown.io_@david23garci_1759015568.mp4"" type="video/mp4">
+</video>
 </p>
 
 <br>
