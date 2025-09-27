@@ -155,7 +155,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <p align="center">
 <b>🎧 What I'm Listening To</b><br>
 <video controls loop>
-  <source src="C:\Users\AMOGH\Downloads\PinDown.io_@david23garci_1759015568.mp4" type="video/mp4">
+  <source src="Spotify_playlist.mp4" type="video/mp4">
 </video>
 </p>
 
