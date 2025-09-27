@@ -284,7 +284,7 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <br>
 
 <p align="center">
-<b>🐍 Contribution Snake</b><br><br>
+<b>🐍 Contribution Snake</b><br>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
@@ -301,9 +301,9 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <div align="center">
 
 ```
-                            ╔════════════════════════════════════════════════════════════╗
-                            ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
-                            ╚════════════════════════════════════════════════════════════╝
+                               ╔════════════════════════════════════════════════════════════╗
+                               ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
+                               ╚════════════════════════════════════════════════════════════╝
 ```
 
 **⚠️ DEVELOPER NOTICE:** *Wanna know more about what my coding projects look like? Follow me on socials --> meet you all there!*
