@@ -271,10 +271,10 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <div align="center">
 
 ```
-[██████████] Loading Environmental Revolution...
-[██████████] Deploying AI-Powered Solutions...
-[██████████] Scaling Blockchain Infrastructure...
-[██████████] Optimizing Carbon Credit Markets...
+[ In - Development Phase ] Loading Environmental Revolution...
+[ In - Development Phase ] Deploying AI-Powered Solutions...
+[ In - Planning Phase ] Scaling Blockchain Infrastructure...
+[In - Analysis Phase] Optimizing Carbon Credit Markets...
 
 🎯 TARGET: Transform global sustainability through technology
 🚀 ETA: Continuous deployment and innovation
@@ -307,9 +307,9 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <div align="center">
 
 ```
- ╔════════════════════════════════════════════════════════════╗
- ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
- ╚════════════════════════════════════════════════════════════╝
+ ╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+ ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮 U CODE TO COMPLETE COLLAGE ASSIGNMENTS, I CODE TO SOLVE PROBLEMS ║
+ ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 **⚠️ DEVELOPER NOTICE:** *Wanna know more about what my coding projects look like? Follow me on socials --> meet you all there!*
