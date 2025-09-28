@@ -6,10 +6,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=300&size=48&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=800&height=80&lines=A+M+O+G+H+%E2%80%A2+D+A+T+H+%E2%80%A2+K+%E2%80%A2+A;%F0%9F%8E%AF+AI+ARCHITECT+%F0%9F%8E%AF;%E2%9A%A1+BLOCKCHAIN+ENGINEER+%E2%9A%A1;%F0%9F%8C%8D+CARBON+CREDIT+PIONEER+%F0%9F%8C%8D" alt="Name Animation" />
 
  ```
-                                  ╔══════════════════════════════════════════════════════════════╗
-                                  ║          🔮 NEURAL INTERFACE MATRIX ONLINE 🔮               ║
-                                  ║      ⚡ NEXT-GEN DEVELOPER • ENVIRONMENTAL TECH LEADER ⚡   ║
-                                  ╚══════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════╗
+ ║          🔮 NEURAL INTERFACE MATRIX ONLINE 🔮               ║
+ ║      ⚡ NEXT-GEN DEVELOPER • ENVIRONMENTAL TECH LEADER ⚡   ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 <br>
 <div align="center">
@@ -307,9 +307,9 @@ Status: [On-Going] 40% | DEPLOYED & ACTIVE
 <div align="center">
 
 ```
-                                   ╔════════════════════════════════════════════════════════════╗
-                                   ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
-                                   ╚════════════════════════════════════════════════════════════╝
+ ╔════════════════════════════════════════════════════════════╗
+ ║  🔮 END TRANSMISSION - ME AND YOU ARE KINDA DIFFERENT 🔮  ║
+ ╚════════════════════════════════════════════════════════════╝
 ```
 
 **⚠️ DEVELOPER NOTICE:** *Wanna know more about what my coding projects look like? Follow me on socials --> meet you all there!*
