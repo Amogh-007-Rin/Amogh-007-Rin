@@ -27,12 +27,12 @@
 ## 🔥 SYSTEM STATUS: ONLINE 🔥
 
 ```yaml
-Current Mission: Revolutionizing Carbon Credits & AI Systems
+Current Mission: Building systems that could solve actual problems
 Status: [ ACTIVE ]
 Location: Birmingham, UK 🇬🇧
 University: Birmingham City University
-Specialization: AI-ML + Blockchain + Full Stack + DevOps
-Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile)
+Specialization: AI-ML + Blockchain + Full Stack + DevOps + Cyber Security
+Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile, JEE Advance AIR 8240)
 ```
 
 <div align="center">
