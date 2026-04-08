@@ -70,7 +70,7 @@ UKFINNOVATOR: 3rd price for building Auto-Renewal + centralised CRM for Allsee-T
 </div>
 
 ---
-🛠️ Mega Tech Stack
+# 🛠️ Mega Tech Stack
 
 <table>
   <thead>
@@ -84,70 +84,69 @@ UKFINNOVATOR: 3rd price for building Auto-Renewal + centralised CRM for Allsee-T
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="20%">
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" title="Python" /><br/>Python<br/><br/>
-        <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40" title="PyTorch" /><br/>PyTorch<br/><br/>
-        <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" title="TensorFlow" /><br/>TensorFlow<br/><br/>
-        <img src="https://skillicons.dev/icons?i=keras&theme=dark" width="40" title="Keras" /><br/>Keras<br/><br/>
-        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="40" title="Scikit-Learn" /><br/>Scikit-Learn<br/><br/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br/><br/>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
+        <sub>Python · PyTorch · TensorFlow</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=keras,sklearn&theme=dark" /><br/>
+        <sub>Keras · Scikit-Learn</sub><br/><br/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
       </td>
-      <td align="center" valign="top" width="20%">
-        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" title="JavaScript" /><br/>JavaScript<br/><br/>
-        <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" title="TypeScript" /><br/>TypeScript<br/><br/>
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" title="Java" /><br/>Java<br/><br/>
-        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" title="React" /><br/>React<br/><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" title="Next.js" /><br/>Next.js<br/><br/>
-        <img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" title="Express" /><br/>Express<br/><br/>
-        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" title="TailwindCSS" /><br/>TailwindCSS<br/><br/>
-        <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" title="FastAPI" /><br/>FastAPI<br/><br/>
-        <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40" title="Flask" /><br/>Flask<br/><br/>
-        <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40" title="Spring Boot" /><br/>Spring Boot<br/><br/>
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" title="MySQL" /><br/>MySQL<br/><br/>
-        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" title="PostgreSQL" /><br/>PostgreSQL<br/><br/>
-        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" title="MongoDB" /><br/>MongoDB<br/><br/>
-        <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" title="Redis" /><br/>Redis<br/><br/>
-        <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="40" title="Prisma" /><br/>Prisma
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=js,ts,java&theme=dark" /><br/>
+        <sub>JavaScript · TypeScript · Java</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,express&theme=dark" /><br/>
+        <sub>React · Next.js · Express</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=tailwind,fastapi,flask&theme=dark" /><br/>
+        <sub>Tailwind · FastAPI · Flask</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=spring,mysql,postgres&theme=dark" /><br/>
+        <sub>Spring Boot · MySQL · PostgreSQL</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,redis,prisma&theme=dark" /><br/>
+        <sub>MongoDB · Redis · Prisma</sub>
       </td>
-      <td align="center" valign="top" width="20%">
-        <img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="40" title="Solidity" /><br/>Solidity<br/><br/>
-        <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="40" title="Rust" /><br/>Rust<br/><br/>
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square&logo=solana&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=flat-square&logo=solana&logoColor=black" /><br/><br/>
-        <img src="https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white" /><br/><br/>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark" /><br/>
+        <sub>Solidity · Rust</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square&logo=solana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=flat-square&logo=solana&logoColor=black" />
+        <img src="https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
       </td>
-      <td align="center" valign="top" width="20%">
-        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" title="Linux" /><br/>Linux<br/><br/>
-        <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" title="Docker" /><br/>Docker<br/><br/>
-        <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40" title="Kubernetes" /><br/>Kubernetes<br/><br/>
-        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" title="GitHub Actions" /><br/>GH Actions<br/><br/>
-        <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" title="AWS" /><br/>AWS<br/><br/>
-        <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="40" title="Azure" /><br/>Azure<br/><br/>
-        <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="40" title="GCP" /><br/>GCP<br/><br/>
-        <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="40" title="Nginx" /><br/>Nginx<br/><br/>
-        <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="40" title="Prometheus" /><br/>Prometheus<br/><br/>
-        <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="40" title="Grafana" /><br/>Grafana
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark" /><br/>
+        <sub>Linux · Docker · Kubernetes</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=githubactions,aws,azure&theme=dark" /><br/>
+        <sub>GH Actions · AWS · Azure</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=gcp,terraform,jenkins&theme=dark" /><br/>
+        <sub>GCP · Terraform · Jenkins</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=ansible,nginx,prometheus&theme=dark" /><br/>
+        <sub>Ansible · Nginx · Prometheus</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=grafana&theme=dark" /><br/>
+        <sub>Grafana</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+        <img src="https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
       </td>
-      <td align="center" valign="top" width="20%">
-        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" /><br/>Git<br/><br/>
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" /><br/>GitHub<br/><br/>
-        <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" /><br/>Figma<br/><br/>
-        <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" title="Postman" /><br/>Postman<br/><br/>
-        <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="40" title="Kali Linux" /><br/>Kali Linux<br/><br/>
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" /><br/>
+        <sub>Git · GitHub · Figma</sub><br/><br/>
+        <img src="https://skillicons.dev/icons?i=postman,kali&theme=dark" /><br/>
+        <sub>Postman · Kali Linux</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
       </td>
     </tr>
   </tbody>
