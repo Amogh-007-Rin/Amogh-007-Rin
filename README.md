@@ -8,7 +8,7 @@
  ```
  ╔══════════════════════════════════════════════════════════════╗
  ║          🔮 NEURAL INTERFACE MATRIX ONLINE 🔮               ║
- ║      ⚡ NEXT-GEN DEVELOPER • ENVIRONMENTAL TECH LEADER ⚡   ║
+ ║      ⚡ NEXT-GEN DEVELOPER • DECENTRALISED TECH BUILDER ⚡   ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
 <br>
@@ -27,12 +27,24 @@
 ## 🔥 SYSTEM STATUS: ONLINE 🔥
 
 ```yaml
-Current Mission: Building systems that could solve actual problems
+Current Mission: Building systems that could solve complex problems
 Status: [ ACTIVE ]
 Location: Birmingham, UK 🇬🇧
 University: Birmingham City University
+Core Department: 2nd Year Artificial Intelligence And Machine Learning
 Specialization: AI-ML + Blockchain + Full Stack + DevOps + Cyber Security
 Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile, JEE Advance AIR 8240)
+```
+
+## 🔥 CODING COMPITATIONS AND HACKTHONS 🔥
+
+```yaml
+JAVA DEPARTMENT: Winner of BCU JAVA Hackthon 🥇🏆
+UNIHACKS: 2nd Price in BCU Sustainability Hackthon 🥈🏆
+CYBER SECURITY SOCIETY: 2nd price for building AI-Agentic VSPT system 🥈🏆
+AI INNOVATOR: Nominated as AI Innovator of year 2025 🏆
+BETTR SOCIAL: 0.5% Equity winner for building Decentralised Social Network 🥇🏆 
+UKFINNOVATOR: 3rd price for building Auto-Renewal + centralised CRM for Allsee-Technologies 🥉🏆
 ```
 
 <div align="center">
