@@ -49,13 +49,13 @@ UKFINNOVATOR: 3rd price for building Auto-Renewal + centralised CRM for Allsee-T
 
 <div align="center">
 
-### 🚀 CORE SYSTEMS ACTIVE 🚀
+### 🚀 MASTER OF THESE TECHNOLOGIES 🚀
 
 <img src="https://skillicons.dev/icons?i=python,js,java,solidity,react,nodejs,aws,docker,kubernetes,mongodb,postgresql,tensorflow,pytorch&theme=dark" />
 
 <br><br>
 
-**More Tech Arsenal:**
+**Favorate Tech Arsenals:**
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -70,6 +70,64 @@ UKFINNOVATOR: 3rd price for building Auto-Renewal + centralised CRM for Allsee-T
 </div>
 
 ---
+🛠️ Tech Stack
+
+💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,rust,solidity&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+🌐 Web & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind,fastapi,flask,spring&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rocket-D33847?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,aws,azure,gcp,nginx,prometheus,grafana&theme=dark" />
+</p>
+
+🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark" />
+</p>
+
+🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,kali&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+----
 
 ## 🌍 PROJECT MATRIX 🌍
 
