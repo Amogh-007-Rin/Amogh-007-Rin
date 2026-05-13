@@ -24,7 +24,7 @@
 
 ---
 
-## 🔥 SYSTEM STATUS: ONLINE 🔥
+## ABOUT ME 
 
 ```yaml
 Current Mission: Building systems that could solve complex problems
@@ -36,7 +36,7 @@ Specialization: AI-ML + Blockchain + Full Stack + DevOps + Cyber Security
 Rank: Top 1% (JEE 98.95%ile, IISER 99.07%ile, JEE Advance AIR 8240)
 ```
 
-## 🔥 CODING COMPITATIONS AND HACKTHONS 🔥
+## CODING COMPITATIONS AND HACKTHONS 
 
 ```yaml
 JAVA DEPARTMENT: Winner of BCU JAVA Hackthon 🥇🏆
